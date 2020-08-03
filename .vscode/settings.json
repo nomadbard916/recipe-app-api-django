@@ -1,0 +1,11 @@
+{
+  "python.pythonPath": "e:\\Coding_projects\\recipe-app-api-django\\venv\\Scripts\\python.exe",
+  // "python.autoComplete.extraPaths": [
+  //   "e:\\Coding_projects\\recipe-app-api-django\\app\\venv"
+  // ],
+  "python.venvPath": "e:\\Coding_projects\\recipe-app-api-django\\venv",
+  "files.exclude": {
+    "venv": true
+  },
+  "workspace.isHidden": false
+}
