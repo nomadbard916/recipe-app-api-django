@@ -5,7 +5,8 @@
   // ],
   "python.venvPath": "e:\\Coding_projects\\recipe-app-api-django\\venv",
   "files.exclude": {
-    "venv": true
+    "venv": true,
+    ".vscode": false
   },
   "workspace.isHidden": false
 }
